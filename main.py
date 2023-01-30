@@ -1,5 +1,3 @@
-# TODO move to more classes (separate functions out more) - not currently using other files, just main.py
-
 import tkinter
 from tkinter import *
 from tkinter import ttk, messagebox
